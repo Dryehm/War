@@ -15,7 +15,7 @@ weapons: [{
   name: MG17
   x: 7
   y: 3
-  reload: 3
+  reload: 2.5
   shots: 1
   inaccuracy: 1
   mirror: true

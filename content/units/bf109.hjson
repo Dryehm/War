@@ -1,8 +1,8 @@
 type: flying
-health: 150
+health: 200
 armor: 1
-hitSize: 20
-speed: 4
+hitSize: 5
+speed: 5
 drag: 0.05
 range: 40
 flying: true

@@ -21,7 +21,7 @@ weapons: [{
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 4
+  spacing: 10
   shootCone: 40
   shootSound: war-mg
   bullet: {

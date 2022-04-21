@@ -29,7 +29,7 @@ weapons: [{
     type: BasicBulletType
     speed: 15
     damage: 10
-    lifetime: 15
+    lifetime: 25
     backColor: BFFF00
     frontColor: BFFF00
     width: 5

@@ -7,13 +7,13 @@ range: 78
 flying: true
 engineOffset: 6.5
 engineSize: 3
-rotateSpeed: 2
-baseRotateSpeed: 0.6
+rotateSpeed: 5
+baseRotateSpeed: 2
 weapons: [{
   name: MG17
   x: 0
   y: 0
-  reload: 7
+  reload: 6
   shots: 2
   inaccuracy: 1
   mirror: true
@@ -21,16 +21,16 @@ weapons: [{
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 1
+  spacing: 2
   shootCone: 40
   shootSound: missile
   bullet: {
     type: BasicBulletType
-    speed: 15
+    speed: 11
     damage: 15
     backColor: f56f00
     frontColor: f56f00
-    bulletWidth: 15
+    bulletWidth: 20
     bulletHeight: 25
     shootEffect: shootBig
   }

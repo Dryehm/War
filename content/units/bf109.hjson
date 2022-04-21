@@ -12,13 +12,12 @@ rotateSpeed: 5
 baseRotateSpeed: 5
 weapons: [{
   name: MG17
-  x: 0
+  x: 10
   y: 0
   reload: 4
   shots: 2
   inaccuracy: .5
   mirror: true
-  X: 100
   alternate: true
   rotate: false
   ejectEffect: none
@@ -30,6 +29,7 @@ weapons: [{
     type: BasicBulletType
     speed: 13
     damage: 15
+    lifetime: 15
     backColor: BFFF00
     frontColor: BFFF00
     width: 5

@@ -23,7 +23,7 @@ weapons: [{
   velocityRnd: 0.2
   spacing: 4
   shootCone: 40
-  shootSound: War-mg
+  shootSound: war-mg
   bullet: {
     type: BasicBulletType
     speed: 11

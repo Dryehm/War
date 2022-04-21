@@ -1,7 +1,7 @@
 type: flying
 health: 115
 hitSize: 20
-speed: 2.375
+speed: 4
 drag: 0.05
 range: 78
 flying: true
@@ -13,25 +13,25 @@ weapons: [{
   name: MG17
   x: 0
   y: 0
-  reload: 5
-  shots: 6
+  reload: 7
+  shots: 2
   inaccuracy: 1
-  mirror: false
+  mirror: true
   alternate: true
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
   spacing: 1
-  shootCone: 60
+  shootCone: 40
   shootSound: missile
   bullet: {
     type: BasicBulletType
-    speed: 10
-    damage: 30
-    backColor: 8FFE09
-    frontColor: 8FFE09
+    speed: 15
+    damage: 15
+    backColor: f56f00
+    frontColor: f56f00
     bulletWidth: 15
-    bulletHeight: 21
+    bulletHeight: 25
     shootEffect: shootBig
   }
   shootSound: shootbig

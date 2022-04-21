@@ -29,8 +29,8 @@ weapons: [{
     speed: 11
     damage: 15
     backColor: f56f00
-    frontColor: f56f00
-    bulletWidth: 20
+    frontColor: ed6f00
+    bulletWidth: 25
     bulletHeight: 25
     shootEffect: shootBig
   }

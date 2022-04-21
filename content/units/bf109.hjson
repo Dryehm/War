@@ -23,7 +23,7 @@ weapons: [{
   velocityRnd: 0.2
   spacing: 4
   shootCone: 40
-  shootSound: mg
+  shootSound: Sounds.mg
   bullet: {
     type: BasicBulletType
     speed: 11
@@ -32,7 +32,7 @@ weapons: [{
     frontColor: ed6f00
     bulletWidth: 25
     bulletHeight: 25
-    shootEffect: mg
+    shootEffect: shootbig
   }
-  shootSound: mg
+  shootSound: Sounds.mg
 }]

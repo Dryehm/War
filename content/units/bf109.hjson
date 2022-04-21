@@ -21,9 +21,10 @@ weapons: [{
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 10
+  xrand: 5
+  spacing: 2
   shootCone: 40
-  shootSound: war-mg
+  shootSound: mg
   bullet: {
     type: BasicBulletType
     speed: 11

@@ -14,7 +14,7 @@ circleTarget: true
 weapons: [{
   name: MG17
   x: 7
-  y: 3
+  y: 4
   reload: 2
   shots: 1
   inaccuracy: 1
@@ -40,7 +40,7 @@ weapons: [{
   {
   name: MG FF
   x: 1
-  y: 5
+  y: 8
   reload: 5
   shots: 1
   inaccuracy: 1

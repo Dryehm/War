@@ -31,7 +31,7 @@ weapons: [{
     damage: 15
     backColor: f56f00
     frontColor: ed6f00
-    width: 25
-    height: 25
+    width: 5
+    height: 15
   }
 }]

@@ -8,7 +8,7 @@ flying: true
 engineOffset: 6.5
 engineSize: 3
 rotateSpeed: 5
-baseRotateSpeed: 2
+baseRotateSpeed: 5
 weapons: [{
   name: MG17
   x: 0
@@ -32,7 +32,7 @@ weapons: [{
     frontColor: ed6f00
     bulletWidth: 25
     bulletHeight: 25
-    shootEffect: shootBig
+    shootEffect: mg
   }
   shootSound: mg
 }]

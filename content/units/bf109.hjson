@@ -1,7 +1,7 @@
 type: flying
 health: 200
 armor: 1
-hitSize: 5
+hitSize: 15
 speed: 5
 drag: 0.05
 range: 40
@@ -35,5 +35,31 @@ weapons: [{
     frontColor: BFFF00
     width: 5
     height: 15
+  }
+}]
+weapons: [{
+  name: MG FF
+  x: 0
+  y: 0
+  reload: 10
+  shots: 1
+  inaccuracy: 1
+  mirror: false
+  alternate: true
+  rotate: false
+  ejectEffect: none
+  velocityRnd: 0.2
+  spacing: 5
+  shootCone: 10
+  shootSound: machinegun
+  bullet: {
+    type: BasicBulletType
+    speed: 15
+    damage: 25
+    lifetime: 25
+    backColor: BFFF00
+    frontColor: BFFF00
+    width: 10
+    height: 20
   }
 }]

@@ -36,8 +36,8 @@ weapons: [{
     width: 5
     height: 15
   }
-}]
-weapons: [{
+}
+  {
   name: MG FF
   x: 0
   y: 0

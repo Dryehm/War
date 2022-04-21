@@ -28,11 +28,11 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 13
-    damage: 15
+    damage: 5
     lifetime: 15
     backColor: BFFF00
     frontColor: BFFF00
-    width: 5
-    height: 15
+    width: 4
+    height: 10
   }
 }]

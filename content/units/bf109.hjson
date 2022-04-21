@@ -23,7 +23,7 @@ weapons: [{
   velocityRnd: 0.2
   spacing: 4
   shootCone: 40
-  shootSound: SerpuloWar2-mg
+  shootSound: mg
   bullet: {
     type: BasicBulletType
     speed: 11

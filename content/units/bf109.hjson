@@ -54,7 +54,7 @@ weapons: [{
   shootSound: machinegun
   bullet: {
     type: BasicBulletType
-    speed: 15
+    speed: 25
     damage: 35
     lifetime: 25
     backColor: EE4B2B

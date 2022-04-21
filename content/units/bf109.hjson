@@ -24,7 +24,7 @@ weapons: [{
   xrand: 5
   spacing: 2
   shootCone: 40
-  shootSound: War-machinegun
+  shootSound: war-machinegun
   bullet: {
     type: BasicBulletType
     speed: 11

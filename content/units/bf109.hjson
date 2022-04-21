@@ -15,7 +15,7 @@ weapons: [{
   name: MG17
   x: 7
   y: 3
-  reload: 2.5
+  reload: 2
   shots: 1
   inaccuracy: 1
   mirror: true
@@ -41,7 +41,7 @@ weapons: [{
   name: MG FF
   x: 1
   y: 5
-  reload: 10
+  reload: 5
   shots: 1
   inaccuracy: 1
   mirror: true
@@ -55,11 +55,11 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 15
-    damage: 25
+    damage: 35
     lifetime: 25
     backColor: EE4B2B
     frontColor: EE4B2B
     width: 10
-    height: 20
+    height: 25
   }
 }]

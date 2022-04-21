@@ -15,7 +15,7 @@ weapons: [{
   y: 0
   reload: 4
   shots: 2
-  inaccuracy: 1
+  inaccuracy: .5
   mirror: true
   alternate: true
   rotate: false

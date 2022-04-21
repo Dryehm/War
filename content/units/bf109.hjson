@@ -23,7 +23,7 @@ weapons: [{
   velocityRnd: 0.2
   spacing: 4
   shootCone: 40
-  shootSound: Sounds.pew
+  shootSound: mg
   bullet: {
     type: BasicBulletType
     speed: 11
@@ -34,5 +34,5 @@ weapons: [{
     bulletHeight: 25
     shootEffect: shootBig
   }
-  shootSound: Sounds.pew
+  shootSound: mg
 }]

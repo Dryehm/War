@@ -32,6 +32,5 @@ weapons: [{
     frontColor: ed6f00
     bulletWidth: 25
     bulletHeight: 25
-    shootEffect: shootbig
   }
 }]

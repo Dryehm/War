@@ -13,7 +13,7 @@ baseRotateSpeed: 5
 circleTarget: true
 weapons: [{
   name: 7.7-Browning
-  x: 7
+  x: 5
   y: 3
   reload: 2
   shots: 1
@@ -31,15 +31,15 @@ weapons: [{
     speed: 15
     damage: 10
     lifetime: 25
-    backColor: BFFF00
-    frontColor: BFFF00
+    backColor: EE4B2B
+    frontColor: EE4B2B
     width: 5
     height: 15
   }
 }
   {
   name: 7.7-Browning
-  x: 5
+  x: 10
   y: 3
   reload: 2
   shots: 1
@@ -65,7 +65,7 @@ weapons: [{
  }
   {
   name: 7.7-Browning
-  x: 2
+  x: 15
   y: 3
   reload: 2
   shots: 1
@@ -91,7 +91,7 @@ weapons: [{
  }
   {
   name: 7.7-Browning
-  x: 5
+  x: 20
   y: 3
   reload: 2
   shots: 1

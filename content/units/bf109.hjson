@@ -1,7 +1,7 @@
 type: flying
 health: 250
 armor: 1
-hitSize: 15
+hitSize: 20
 speed: 5
 drag: 0.05
 range: 40
@@ -57,8 +57,8 @@ weapons: [{
     speed: 15
     damage: 25
     lifetime: 25
-    backColor: BFFF00
-    frontColor: BFFF00
+    backColor: EE4B2B
+    frontColor: EE4B2B
     width: 10
     height: 20
   }

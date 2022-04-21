@@ -1,5 +1,5 @@
 type: flying
-health: 115
+health: 150
 hitSize: 20
 speed: 4
 drag: 0.05
@@ -13,7 +13,7 @@ weapons: [{
   name: MG17
   x: 0
   y: 0
-  reload: 6
+  reload: 4
   shots: 2
   inaccuracy: 1
   mirror: true
@@ -21,16 +21,15 @@ weapons: [{
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
-  xrand: 5
   spacing: 2
   shootCone: 40
   shootSound: machinegun
   bullet: {
     type: BasicBulletType
-    speed: 11
+    speed: 13
     damage: 15
-    backColor: f56f00
-    frontColor: ed6f00
+    backColor: BFFF00
+    frontColor: BFFF00
     width: 5
     height: 15
   }

@@ -4,10 +4,10 @@ armor: 1
 hitSize: 20
 speed: 4
 drag: 0.05
-range: 78
+range: 40
 flying: true
 engineOffset: 6.5
-engineSize: 3
+engineSize: 0
 rotateSpeed: 5
 baseRotateSpeed: 5
 weapons: [{
@@ -18,13 +18,13 @@ weapons: [{
   shots: 2
   inaccuracy: .5
   mirror: true
-  X: 10
+  X: 100
   alternate: true
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
   spacing: 2
-  shootCone: 40
+  shootCone: 5
   shootSound: machinegun
   bullet: {
     type: BasicBulletType

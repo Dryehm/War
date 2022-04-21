@@ -1,5 +1,6 @@
 type: flying
 health: 150
+armor: 1
 hitSize: 20
 speed: 4
 drag: 0.05
@@ -17,6 +18,7 @@ weapons: [{
   shots: 2
   inaccuracy: .5
   mirror: true
+  X: 10
   alternate: true
   rotate: false
   ejectEffect: none

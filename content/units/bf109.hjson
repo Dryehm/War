@@ -18,12 +18,12 @@ weapons: [{
   inaccuracy: 1
   mirror: true
   alternate: true
-  rotate: true
+  rotate: false
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 2
+  spacing: 4
   shootCone: 40
-  shootSound: missile
+  shootSound: Sounds.pew
   bullet: {
     type: BasicBulletType
     speed: 11
@@ -34,5 +34,5 @@ weapons: [{
     bulletHeight: 25
     shootEffect: shootBig
   }
-  shootSound: shootbig
+  shootSound: Sounds.pew
 }]

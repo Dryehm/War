@@ -10,6 +10,7 @@ engineOffset: 6.5
 engineSize: 0
 rotateSpeed: 5
 baseRotateSpeed: 5
+circleTarget: true
 weapons: [{
   name: MG17
   x: 7

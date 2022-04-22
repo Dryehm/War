@@ -25,7 +25,7 @@ weapons: [{
         speed: 0
         hitEffect: blastExplosion
         despawnEffect: blastExplosion
-        splashDamage: 2500
+        splashDamage: 250
         splashDamageRadius: 50
         range: 100
     }

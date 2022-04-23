@@ -6,6 +6,7 @@ speed: 5
 drag: 0.05
 range: 40
 flying: true
+targetAir: false
 engineOffset: 6.5
 engineSize: 0
 rotateSpeed: 5
@@ -22,11 +23,10 @@ weapons: [{
     bullet: {
         type: BasicBulletType,
         size: 20
-        speed: 0
+        speed: 1
         hitEffect: blastExplosion
         despawnEffect: blastExplosion
-        splashDamage: 500
-        splashDamageRadius: 50
+        damage: 500
         range: 100
     }
 }]

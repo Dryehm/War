@@ -1,0 +1,32 @@
+type: flying
+health: 1200
+armor: 1
+hitSize: 20
+speed: 5
+drag: 0.05
+range: 40
+flying: true
+targetAir: false
+engineOffset: 6.5
+engineSize: 0
+rotateSpeed: 5
+baseRotateSpeed: 5
+circleTarget: true
+weapons: [{
+    name: "1000kg bomb",
+    top: false
+    rotate: false
+    ejectEffect: none
+    spacing: 2
+    shots: 1
+    reload: 10
+    bullet: {
+        type: BasicBulletType,
+        size: 20
+        speed: 1
+        hitEffect: blastExplosion
+        despawnEffect: blastExplosion
+        damage: 500
+        range: 100
+    }
+}]
